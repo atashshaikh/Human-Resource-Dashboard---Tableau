@@ -80,4 +80,5 @@ Location View: Interactive HQ vs Branch map using CASE-based state logic
 
 ### 6.	Screenshots / Demo
 
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](<img width="808" height="507" alt="image" src="https://github.com/user-attachments/assets/87b6c50f-db3a-42b6-be8a-419e496bb46c" />
+)
