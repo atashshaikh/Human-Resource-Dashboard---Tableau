@@ -1,17 +1,17 @@
 # Human-Resource-Dashboard---Tableau
 
-### 1.	📊 Workforce Insights: Human Resources Performance Dashboard
+### 📊 Workforce Insights: Human Resources Performance Dashboard
 
 An interactive Tableau dashboard that visualizes key HR metrics — tracking employee demographics, departmental performance, income patterns, and hiring trends to empower data-driven HR strategies.
 
 
-### 2.	Short Description / Purpose
+### Short Description / Purpose
 
 This interactive Tableau dashboard consolidates key HR indicators to help organizations monitor employee lifecycle trends, analyze diversity, and evaluate performance and pay equity across departments and locations.
 It is designed for HR managers, data analysts, and executives to make informed, data-backed decisions.
 
 
-### 3.	Tech Stack
+###	Tech Stack
 Developed using:
 
 • Tableau Desktop –  Main visualization platform <br>
@@ -20,7 +20,7 @@ Developed using:
 • Parameters & Filters –  Interactive insights across demographics and departments<br>
 • File Format –  .twbx (packaged workbook), .png for preview
 
-### 4.	Data Source
+### Data Source
 Source: Sample HR dataset containing realistic data of 8950 records with anonymized employee details.
 
 Key columns include:
@@ -29,12 +29,7 @@ Employee ID, Department, Job Role, Gender, Education, and State<br>
 Hire Date, Termination Date, Salary, and Age
 
 
-### 5.	Features / Highlights
-The best dashboard explanation format. 
-•	Business problem
-•	Goal of the dashboard
-•	Walk through of key visuals (briefly!)
-•	Business impact & Insights
+### Features / Highlights
 
 💼 Business Problem
 
@@ -42,7 +37,7 @@ Organizations often face challenges consolidating HR data to evaluate workforce 
 
 🎯 Goal of the Dashboard
 
-• To build an interactive HR analytics tool that:
+To build an interactive HR analytics tool that:
 
 • Tracks hiring and termination trends over time
 
@@ -60,30 +55,34 @@ Departments: Department-wise distribution of employees, hires, and exits
 
 Demographics:
 
- • Gender distribution (Male vs Female)
- • Education & Age matrix
- • Performance vs Education breakdown
+ • Gender distribution (Male vs Female)<br>
+ • Education & Age matrix<br>
+ • Performance vs Education breakdown<br>
 
 Income Analysis:
 
- • Salary comparison by education and gender
- • Scatter plot of Age vs Salary across roles
+  • Salary comparison by education and gender<br>
+  • Scatter plot of Age vs Salary across roles<br>
 
-Location View: Interactive HQ vs Branch map using CASE-based state logic
+
+Location View: 
+
+• Interactive HQ vs Branch map using CASE-based state logic
 
 💡 Business Impact & Insights
 
- • 🔍 Improved workforce visibility – Quick insights into headcount, attrition, and hiring trends
- • 👩‍🤝‍👨 Diversity insights – Gender and education analysis for DEI initiatives
- • 💰 Pay equity tracking – Identify salary gaps across education or gender
+ • 🔍 Improved workforce visibility – Quick insights into headcount, attrition, and hiring trends<br>
+ • 👩‍🤝‍👨 Diversity insights – Gender and education analysis for DEI initiatives<br>
+ • 💰 Pay equity tracking – Identify salary gaps across education or gender<br>
  • 🧭 Data-driven HR planning – Support for strategic hiring and retention policies
 
-### 6.	Screenshots / Demo
-HR-Summary
+### Screenshots / Demo
+
+##### HR-Summary
 
 ![Dashboard Preview](https://github.com/atashshaikh/Human-Resource-Dashboard---Tableau/blob/main/HR-Dashboard.png)
 
-Hr-Details
+##### Hr-Details
 
 ![Dashboard Preview](https://github.com/atashshaikh/Human-Resource-Dashboard---Tableau/blob/main/HR-Dashboard-Details.png)
 
