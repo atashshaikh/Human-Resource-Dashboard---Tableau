@@ -79,6 +79,10 @@ Location View: Interactive HQ vs Branch map using CASE-based state logic
  • 🧭 Data-driven HR planning – Support for strategic hiring and retention policies
 
 ### 6.	Screenshots / Demo
+HR-Summary
 
-![Dashboard Preview](<img width="808" height="507" alt="image" src="https://github.com/user-attachments/assets/87b6c50f-db3a-42b6-be8a-419e496bb46c" />
-)
+![Dashboard Preview](https://github.com/atashshaikh/Human-Resource-Dashboard---Tableau/blob/main/HR-Dashboard.png)
+
+Hr-Details
+
+![Dashboard Preview](https://github.com/atashshaikh/Human-Resource-Dashboard---Tableau/blob/main/HR-Dashboard.png)
