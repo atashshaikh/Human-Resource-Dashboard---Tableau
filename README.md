@@ -85,4 +85,7 @@ HR-Summary
 
 Hr-Details
 
-![Dashboard Preview](https://github.com/atashshaikh/Human-Resource-Dashboard---Tableau/blob/main/HR-Dashboard.png)
+![Dashboard Preview](https://github.com/atashshaikh/Human-Resource-Dashboard---Tableau/blob/main/HR-Dashboard-Details.png)
+
+Click to visit the dashboard 
+(https://public.tableau.com/app/profile/mohammad.atash.shaikh/viz/HumanResourcesDashboard_17270937396500/HRSummary)
